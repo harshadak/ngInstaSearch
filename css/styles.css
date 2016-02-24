@@ -1,0 +1,39 @@
+html {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body {
+    width: 90%;
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 3rem auto;
+    text-align: center;
+}
+
+/* Header styles */
+
+header {
+    height: 6rem;
+}
+h1 {
+    font-size: 3.5rem;
+    font-weight: 600;
+}
+
+/* input-form section */
+
+.input-form {
+    padding-bottom: 1rem;
+}
+
+/* display-results section */
+
+.display-results {
+    padding-top: 1rem;
+}
+.display-results .results h2 {
+    padding-bottom: 1rem;
+}
+.image-results {
+    border: 2px solid #b30000;
+}
