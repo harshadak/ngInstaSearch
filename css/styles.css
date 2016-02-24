@@ -37,3 +37,13 @@ h1 {
 .image-results {
     border: 2px solid #b30000;
 }
+.image-results li {
+    list-style: none;
+}
+.images {
+    width: 30%;
+    display: inline-block;
+    float: left;
+    border: 2px solid #b30000;
+    border-radius: 0.5rem;
+}
